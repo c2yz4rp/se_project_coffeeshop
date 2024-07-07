@@ -13,4 +13,4 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+To improve the project we can add more styles or transitions that can capture people's attention. In that way they can visit the project and read more about our coofee shop!
