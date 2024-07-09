@@ -10,7 +10,8 @@
   height: 100vh;
   display: flex;
   flex-direction: column;
-  box-sizing: content-box;
+  box-sizing: border-box;
+  position: relative;
 }
 
 .header__title {
